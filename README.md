@@ -5,11 +5,16 @@
 - modeSolver4l_LpSl_Verbose_mex.cpp
 - field4l_LpSl_Verbose_mex_ext.cpp
 
-(compilation instructions for Unix based OS contained inside, respectively)
-(*.mexa64 included here)
+Compilation instructions for Unix based OS contained inside, respectively.
 
 # Example scripts:
 - script_plot_dmd_opt_fibres.m
 - script_compare_with_Optiwave_solutions.m
 
-These show how to calculate "mode effective index", "chromatic dispersion", "differential mode delay", "macroband loss", or "mode field diameter" run
+These show how to calculate 
+- mode effective index
+- chromatic dispersion
+- differential mode delay
+- macroband loss
+- mode field diameter
+- mode field distribution
