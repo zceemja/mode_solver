@@ -25,3 +25,15 @@ These show how to calculate
 # References:
 - Solution method: J. G. Dil and H. Blok, “Propagation of electromagnetic surface waves in a radially inhomogeneous optical waveguide,” Opt. Quant. Electron., vol. 5, no. 5, pp. 415–428, 1973.
 - Sellmeier coefficients: W. Hermann, and D. U. Wiechert, “Refractive index of doped and undoped PCVD bulk silica,” Mater. Res. Bull., vol. 24, no. 9, pp. 1083–1097, 1989.
+
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
