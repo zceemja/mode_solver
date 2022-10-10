@@ -11,6 +11,7 @@ Mode solver for arbitrary fibre profiles azimuthally symmetric.
 Compilation instructions for Unix based OS contained inside, respectively.
 
 # Example scripts:
+- script_plot_example_fibre.m
 - script_plot_dmd_opt_fibres.m
 - script_compare_with_Optiwave_solutions.m
 
