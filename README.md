@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/481349688.svg)](https://zenodo.org/badge/latestdoi/481349688)
+
 Mode solver for arbitrary fibre profiles azimuthally symmetric. 
 
 # Published results
