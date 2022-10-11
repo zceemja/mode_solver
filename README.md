@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/481349688.svg)](https://zenodo.org/badge/latestdoi/481349688) see how to cite this repository in the About section
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7186485.svg)](https://doi.org/10.5281/zenodo.7186485) see how to cite this repository in the About section
 
 Mode solver for arbitrary fibre profiles azimuthally symmetric. 
 
