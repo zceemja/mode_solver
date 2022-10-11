@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "M. Ferreira"
+  given-names: "Filipe"
+  orcid: "https://orcid.org/0000-0002-1533-843X"
+- family-names: "Mu"
+  given-names: "Xun"
+  orcid: "https://orcid.org/0000-0003-4150-0979"
+- family-names: "A. Barbosa"
+  given-names: "Fabio"
+  orcid: "https://orcid.org/0000-0001-5891-4495"
+- family-names: "Jarmolovicius"
+  given-names: "Mindaugas"
+  orcid: "https://orcid.org/0000-0002-0456-110X"
+title: "Optical fibre mode solver - cylindrical symmetry"
+version: 1.0.0
+doi: 10.5281/zenodo.7185934
+date-released: 2022-10-11
+url: "https://github.com/UCL/mode_solver"
